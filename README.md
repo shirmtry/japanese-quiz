@@ -7,3 +7,10 @@
 1. Clone repository về máy:
    ```bash
    git clone https://github.com/username/japanese-quiz.git
+
+
+
+
+git add .
+git commit -m "Initial commit of Japanese Vocabulary Quiz"
+git push origin main
