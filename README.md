@@ -2,6 +2,8 @@
 
 Đây là một bài kiểm tra trắc nghiệm từ vựng tiếng Nhật.
 
+Donate : ACB 43146717
+
 ## Cách sử dụng
 
 1. Clone repository về máy:
